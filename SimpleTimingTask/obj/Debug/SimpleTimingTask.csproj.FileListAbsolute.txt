@@ -1,0 +1,9 @@
+C:\Users\examp\source\repos\SimpleTimingTask\SimpleTimingTask\bin\Debug\SimpleTimingTask.exe.config
+C:\Users\examp\source\repos\SimpleTimingTask\SimpleTimingTask\bin\Debug\SimpleTimingTask.exe
+C:\Users\examp\source\repos\SimpleTimingTask\SimpleTimingTask\bin\Debug\SimpleTimingTask.pdb
+C:\Users\examp\source\repos\SimpleTimingTask\SimpleTimingTask\obj\Debug\SimpleTimingTask.Properties.Resources.resources
+C:\Users\examp\source\repos\SimpleTimingTask\SimpleTimingTask\obj\Debug\SimpleTimingTask.csproj.GenerateResource.cache
+C:\Users\examp\source\repos\SimpleTimingTask\SimpleTimingTask\obj\Debug\SimpleTimingTask.csproj.CoreCompileInputs.cache
+C:\Users\examp\source\repos\SimpleTimingTask\SimpleTimingTask\obj\Debug\SimpleTimingTask.exe
+C:\Users\examp\source\repos\SimpleTimingTask\SimpleTimingTask\obj\Debug\SimpleTimingTask.pdb
+C:\Users\examp\source\repos\SimpleTimingTask\SimpleTimingTask\obj\Debug\SimpleTimingTask.MainWindow.resources
